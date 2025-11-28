@@ -161,7 +161,7 @@ function App() {
     }
     setGameState('shop');
   };
-
+ 
   const handleSellSkin = (skin) => {
     const confirmSell = window.confirm(
       `Sell ${skin.name}?\n\n` +
