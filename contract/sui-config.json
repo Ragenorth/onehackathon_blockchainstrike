@@ -1,0 +1,9 @@
+{
+  "network": "testnet",
+  "rpc": "https://fullnode.testnet.sui.io:443",
+  "websocket": "wss://fullnode.testnet.sui.io:443",
+  "faucet": "https://faucet.testnet.sui.io/gas",
+  "explorer": "https://suiexplorer.com/?network=testnet",
+  "packageId": "0xfbcea7587ae70ddb97b96805af0815d20fd63600e49104462d37e3cd526e8b81",
+  "leaderboardObjectId": "0xfe2f60afd619d567aa1e830d0c94e8c962b7c81e4c1b674c9d7f2a13fafb0849"
+}
