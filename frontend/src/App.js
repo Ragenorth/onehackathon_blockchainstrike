@@ -196,11 +196,7 @@ function App() {
     alert(`Equipped ${skin.name}!`);
   };
 
-  const handleDisconnectWallet = () => {
-    disconnectWallet();
-    setWalletAddress(null);
-    setWalletBalance(null);
-  };
+
 
 
 
