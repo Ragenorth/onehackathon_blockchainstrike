@@ -579,8 +579,9 @@
   .cosmetic-item {
     max-width: 100%;
   }
-}/
-* Game Over Styles */
+}
+
+/* Game Over Styles */
 .gameover-buttons {
   display: flex;
   flex-direction: column;
@@ -725,8 +726,6 @@ Pause Menu Styles */
   color: #4da2ff;
   font-weight: bold;
 }
-
-/* Fix menu wallet info loading */
 .menu-wallet-info p {
   min-height: 1.5rem;
   display: flex;
@@ -755,8 +754,8 @@ Pause Menu Styles */
     padding: 0 1rem;
   }
 }
-/* Ra
-ndom Skin Reward Styles */
+
+/* Random Skin Reward Styles */
 .new-skin-reward {
   margin: 2rem auto;
   padding: 1.5rem;
